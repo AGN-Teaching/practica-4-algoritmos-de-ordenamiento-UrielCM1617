@@ -3,3 +3,29 @@
 # Práctica 4: Algoritmos de ordenamiento
 
 ## Antecedentes
+
+
+El problema de ordenamiento se define como:
+
+
+
+Entrada: Una secuencia A=〈a1, a2, , an〉 de n números.
+Salida: Una permutación A'=〈a'1, a'2, , a'n〉 de los números de la secuencia de A, tal que a'1a'2a'n.
+
+
+
+Existen muchos algoritmos que resuelven este problema, siendo la diferencia entre ellos su eficiencia.
+
+
+
+En clase estudiamos cinco algoritmos de ordenamiento: insertion sort, selection sort, bubblesort, merge sort y quicksort. Vimos que, en el caso promedio, el tiempo de ejecución de los primeros tres es de orden cuadrático (n2), mientras que el de los últimos dos es proporcional a n n.
+
+
+
+¿Qué significa que un algoritmo de ordenamiento tenga eficiencia de n n?
+Los algoritmos de ordenamiento con una complejidad de n n Son eficientes y se utilizan para ordenar conjuntos de datos grandes.
+
+
+## Resultados:
+### Análisis:
+### Conclusiones:
