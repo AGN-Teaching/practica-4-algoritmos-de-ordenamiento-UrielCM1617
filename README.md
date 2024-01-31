@@ -27,5 +27,15 @@ Los algoritmos de ordenamiento con una complejidad de n n Son eficientes y se ut
 
 
 ## Resultados:
+
+
+Para poder hacer las pruebas con los algoritmos al mismo tiempo se consideró que el tamaño del arreglo iba ir creciendo de la siguiente manera: 
+
+
+![Captura de pantalla 2024-01-31 135809](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-UrielCM1617/assets/125332082/89e3b50b-f52f-4daf-a374-ebe81fae1b5d)
+
+
+y la prueba por cada uno de ellos debíamos de ejecutarla 30 veces, esto quiere decir que para 5 elementos debíamos de ejecutar los 5 algoritmos 30 veces. Por lo que a continuación se mostrarán los resultados de dichas pruebas.
+
 ### Análisis:
 ### Conclusiones:
