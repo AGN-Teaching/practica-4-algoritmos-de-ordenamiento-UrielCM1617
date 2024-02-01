@@ -206,6 +206,18 @@ Una vez que realizamos los ordenamientos con los distintos tipos de algoritmos, 
 
 En cuanto a las gráficas nos ayudaba a que a representar los resultados y de esa manera, analizar cuáles eran sus ventajas y desventajas
 
+
+Como en esta práctica se tenía que poner a prueba los distintos tipos de algoritmos al mismo tiempo, nos hacía ver con más claridad cómo aumentaba la escala de tiempo.
+
+En el caso de merge sort era un poco evidente ver la manera y el tiempo en que podía ordenar
+
+
+![Captura de pantalla 2024-01-31 183343](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-UrielCM1617/assets/125332082/5227c972-a549-47b9-b566-7d22cf38a586)
+
+
+Ya que como vemos en la imagen ocupaba la recursividad, pero de manera más eficiente en lo personal. Ya que al dividir y acomodar cada parte del arreglo, hacía más fácil el ordenamiento.
+
+
 ## Conclusiones:
 
 Una vez que se realizó la ejecución de los algoritmos, puedo decir de manera coloquial que hay algunos que tienen un mejor desempeño, incluso después de ejecutar uno con elementos más grandes. Durante esta práctica se usó la misma computadora para ordenar todos los elementos con diferentes. Y mediante las tablas y gráficas mostradas se puede concluir que a partir de elementos más grandes se puede considerar usar unos algoritmos a comparación de otros, de igual manera se puede notar que cada algoritmo funciona de manera distinta y esto igual puede variar del equipo que se tenga .
