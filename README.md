@@ -216,6 +216,7 @@ En el caso de merge sort era un poco evidente ver la manera y el tiempo en que p
 
 
 Ya que como vemos en la imagen ocupaba la recursividad, pero de manera más eficiente en lo personal. Ya que al dividir y acomodar cada parte del arreglo, hacía más fácil el ordenamiento.
+Pero analizando el comportamiento de los 5 algoritmos, unos pueden ser buenos o malos.
 
 
 ## Conclusiones:
